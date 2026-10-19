@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas
+numpy
+scipy
+statsmodels>=0.14
+arch>=7.0
+plotly>=5.20
+yfinance>=0.2.50
